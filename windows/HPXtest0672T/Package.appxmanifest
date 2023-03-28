@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="53af954d-99da-4d4b-b8c2-82b47c2ae9f2"
+    Name="b3c784a2-c22a-4c77-910d-ccbc420a72b6"
     Publisher="CN=CarmoKew"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="53af954d-99da-4d4b-b8c2-82b47c2ae9f2" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="b3c784a2-c22a-4c77-910d-ccbc420a72b6" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>HPXtest0672T</DisplayName>
